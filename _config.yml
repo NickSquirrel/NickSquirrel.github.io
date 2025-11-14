@@ -13,9 +13,9 @@ future: true
 
 # SNS settings
 RSS: false
-zhihu_username: 裸奔的松鼠
+zhihu_username: luo-ben-de-song-shu
 github_username: NickSquirrel
-bilibili_username: 尼克的松鼠
+bilibili_username: 19966211
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
